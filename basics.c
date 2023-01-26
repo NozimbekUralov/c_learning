@@ -3,7 +3,7 @@
 int main(){
     //key words
     auto
-    double 
+    double
     int 
     struct
     break 
