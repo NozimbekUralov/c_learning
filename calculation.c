@@ -9,7 +9,6 @@ int main(){
     printf("masofa \"dm\"%dga teng\n",num*100);   
     printf("masofa \"dyum\"%dga teng\n",num*400);
     printf("masofa \"sm\"%dga teng\n",num*100000);
-
     return 0;
 
 }
